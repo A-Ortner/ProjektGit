@@ -1,2 +1,2 @@
 Hallo Freunde!
-Diese Datei wird bald Teil eines Git Projekts.
+Diese Datei wird bald Teil eines Git Projekts. Erste Änderung.
